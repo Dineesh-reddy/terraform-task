@@ -1,7 +1,7 @@
 provider "aws" {
   region = "us-east-2" 
-  access_key = "AKIAQEIP3NKUMCJTSRRL"
-  secret_key = "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" 
+  access_key = "xxxxxxxxxxxxxxxxxxxxx"
+  secret_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx" 
 }
 provider "aws" {
   region = "us-east-2"  # Ohio region
